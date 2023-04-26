@@ -1,0 +1,4 @@
+com\mycompany\payara_test\JakartaRestConfiguration.class
+pl\polsl\milosz\cebula\matrixcalculator2\model\Model.class
+pl\polsl\milosz\cebula\matrixcalculator2\exception\CalculatorException.class
+com\mycompany\payara_test\resources\JakartaEE8Resource.class

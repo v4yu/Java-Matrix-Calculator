@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Matrix Calculator</h1>
+        <form action="Menu" method="POST">
+            <input type="radio" id="det" name="mode" value="DETERMINANT" checked>
+            <label for="det">Matrix Determinant</label><br>
+            
+            <input type="radio" id="trans" name="mode" value="TRANSPOSITION">
+            <label for="trans">Matrix Transposition</label><br>
+            
+            <p>Matrix Columns:<input type=text size=20 name="matrixcolumns"></p>
+            <p>Matrix Rows:<input type=text size=20 name="matrixrows"></p>
+            <input type="submit" value="Calculate" name="test" />
+            <br>
+            <br>
+            
+            <label for="matrixInput">Input Matrix:</label>
+            <br>
+            <textarea id="matrixInput" name="matrixInput" rows="4" cols="50"></textarea>
+        </form>
+        
+        <form action="HistoryPage" method="POST">
+             <input type="submit" value="View HistoryPage" />
+        </form>
+    </body>
+</html>

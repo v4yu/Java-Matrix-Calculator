@@ -1,0 +1,67 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Cebulv/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/LabProjects/F4/MatrixCalculator2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MatrixCalculator2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'F:/LabProjects/F4/MatrixCalculator2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MatrixCalculator2 1.0-SNAPSHOT API'
+com.mycompany.payara_test
+com.mycompany.payara_test.resources
+pl.polsl.milosz.cebula.matrixcalculator2.enumoperation
+pl.polsl.milosz.cebula.matrixcalculator2.exception
+pl.polsl.milosz.cebula.matrixcalculator2.model
+pl.polsl.milosz.cebula.matrixcalculator2.servlets
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/com/mycompany/payara_test/JakartaRestConfiguration.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/com/mycompany/payara_test/resources/JakartaEE8Resource.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/enumoperation/EnumOperation.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/enumoperation/package-info.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/exception/CalculatorException.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/exception/package-info.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/model/Model.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/model/package-info.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/servlets/HistoryPage.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/servlets/MatrixDisplay.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/servlets/Menu.java'
+'F:/LabProjects/F4/MatrixCalculator2/src/main/java/pl/polsl/milosz/cebula/matrixcalculator2/servlets/package-info.java'
+C:\Users\Cebulv\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1669481156863
+F:\LabProjects\F4\MatrixCalculator2\src\main\java = 1669743516674
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\allclasses-index.html = 1669812566547
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\allpackages-index.html = 1669812566549
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\element-list = 1669812566418
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\help-doc.html = 1669812566575
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\index-all.html = 1669812566567
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\index.html = 1669812566527
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\jquery-ui.overrides.css = 1669812566591
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\member-search-index.js = 1669812566552
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\module-search-index.js = 1669812566550
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\overview-summary.html = 1669812566569
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\overview-tree.html = 1669812566522
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\package-search-index.js = 1669812566551
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\script.js = 1669812566579
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\search.js = 1669812566582
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\serialized-form.html = 1669812566473
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\stylesheet.css = 1669812566577
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\tag-search-index.js = 1669812566553
+F:\LabProjects\F4\MatrixCalculator2\target\site\apidocs\type-search-index.js = 1669812566552
